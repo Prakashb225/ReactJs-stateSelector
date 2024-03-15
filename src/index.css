@@ -1,0 +1,14 @@
+body {
+  background-image: linear-gradient(
+    to right,
+    rgb(192, 132, 132),
+    rgb(148, 167, 228)
+  );
+  margin-top: 230px;
+  padding: 20px;
+  margin-left: 350px;
+}
+select{
+    padding: 5px;
+    padding-right: 10px;
+}
